@@ -1,0 +1,13 @@
+name: Ali
+age: 28
+address: "dwhui: iowdiw"
+active: true
+key:
+  key: value
+  key2: value
+  key3:
+    key: value
+array:
+  - item1
+  - item2
+  - { key: value }
